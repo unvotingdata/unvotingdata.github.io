@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="360.84"
+   height="113.544"
+   viewBox="0 0 360.84 113.544"
+   version="1.1"
+   id="svg74"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="C:\Users\Admin\OneDrive\Projects\unvotingwebsite\img\logo3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview76"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.86742045"
+     inkscape:cx="42.078787"
+     inkscape:cy="148.14039"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g16581" />
+  <defs
+     id="defs59">
+    <rect
+       x="116.43719"
+       y="23.63329"
+       width="49.284057"
+       height="57.353961"
+       id="rect3359" />
+    <linearGradient
+       id="linear-gradient"
+       x1="-0.092"
+       y1="0.408"
+       x2="1.04"
+       y2="0.408"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#31d8ff"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#185bc6"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="-0.898"
+       x2="0.393"
+       y2="0.803"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#1da4ff"
+         id="stop7" />
+      <stop
+         offset="0.183"
+         stop-color="#1da1fb"
+         id="stop9" />
+      <stop
+         offset="0.357"
+         stop-color="#1b98f0"
+         id="stop11" />
+      <stop
+         offset="0.527"
+         stop-color="#1988dd"
+         id="stop13" />
+      <stop
+         offset="0.695"
+         stop-color="#1672c2"
+         id="stop15" />
+      <stop
+         offset="0.86"
+         stop-color="#13569f"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#0f397c"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-3"
+       x1="0.121"
+       y1="0.627"
+       x2="1.065"
+       y2="0.328"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#1da4ff"
+         id="stop22" />
+      <stop
+         offset="0.146"
+         stop-color="#1c9ff9"
+         id="stop24" />
+      <stop
+         offset="0.332"
+         stop-color="#1b93ea"
+         id="stop26" />
+      <stop
+         offset="0.539"
+         stop-color="#187dd0"
+         id="stop28" />
+      <stop
+         offset="0.762"
+         stop-color="#1460ab"
+         id="stop30" />
+      <stop
+         offset="0.994"
+         stop-color="#0f3a7d"
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-color="#0f397c"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-4"
+       x1="-0.001"
+       y1="0.499"
+       x2="1"
+       y2="0.499"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#25c9d6"
+         id="stop37" />
+      <stop
+         offset="1"
+         stop-color="#1d4799"
+         stop-opacity="0"
+         id="stop39" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-5"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#b6d2ff"
+         stop-opacity="0"
+         id="stop42" />
+      <stop
+         offset="1"
+         stop-color="#a4fdff"
+         id="stop44" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-6"
+       x1="0"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       xlink:href="#linear-gradient-5" />
+    <linearGradient
+       id="linear-gradient-7"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#a6dfff"
+         id="stop48" />
+      <stop
+         offset="0.268"
+         stop-color="#84bcee"
+         stop-opacity="0.733"
+         id="stop50" />
+      <stop
+         offset="0.572"
+         stop-color="#659cde"
+         stop-opacity="0.427"
+         id="stop52" />
+      <stop
+         offset="0.827"
+         stop-color="#5188d5"
+         stop-opacity="0.173"
+         id="stop54" />
+      <stop
+         offset="1"
+         stop-color="#4a81d1"
+         stop-opacity="0"
+         id="stop56" />
+    </linearGradient>
+  </defs>
+  <g
+     id="logo"
+     transform="translate(-179 -4275.225)">
+    <g
+       id="g885"
+       transform="matrix(1.1035209,0,0,1.1035209,-30.028587,-447.38081)"
+       inkscape:export-filename="C:\Users\Admin\OneDrive\Projects\unvotingwebsite\img\logo2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g16581"
+         inkscape:export-filename="C:\Users\Admin\OneDrive\Projects\unvotingwebsite\img\logo2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <text
+           xml:space="preserve"
+           style="font-size:38.6641px;line-height:0.95;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           x="295.18469"
+           y="4327.9863"
+           id="text7917"
+           inkscape:export-filename="C:\Users\Admin\OneDrive\Projects\unvotingwebsite\img\logo.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             x="295.18469"
+             y="4327.9863"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.6641px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+             id="tspan25934">UN Voting</tspan></text>
+        <g
+           id="g2085"
+           inkscape:export-filename="C:\Users\Admin\OneDrive\Projects\unvotingwebsite\img\logo.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="matrix(2.2394887,1.212387,-1.329021,2.1583123,302.87865,3940.4769)"
+           style="fill:#0000ff;stroke:#000000">
+          <circle
+             cx="69.314003"
+             cy="-134.52499"
+             transform="scale(1,-1)"
+             opacity="0.96"
+             stroke="#fff"
+             stroke-width=".06"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             id="circle2"
+             r="2.8840001"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none" />
+          <circle
+             transform="scale(1,-1)"
+             r="2.8840001"
+             cy="-140.61"
+             cx="50.660999"
+             opacity="0.96"
+             stroke-width="0.06"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             id="circle4"
+             style="fill:#000000" />
+          <path
+             d="m 69.41,134.649 -6.18,21.14"
+             fill-rule="evenodd"
+             stroke-width="2"
+             id="path6"
+             style="fill:#000000" />
+          <circle
+             cx="63.096001"
+             cy="-155.69099"
+             r="2.8840001"
+             transform="scale(1,-1)"
+             opacity="0.96"
+             stroke-width="0.06"
+             stroke-linecap="round"
+             stroke-miterlimit="10"
+             id="circle8"
+             style="fill:#000000" />
+          <path
+             d="m 50.492,140.734 12.737,15.055 m -12.737,-15.055 18.917,-6.085"
+             fill-rule="evenodd"
+             stroke-width="2"
+             id="path10"
+             style="fill:#000000" />
+          <g
+             id="g51359"
+             style="fill:#0000ff">
+            <circle
+               cx="69.314003"
+               cy="-134.52499"
+               transform="scale(1,-1)"
+               opacity="0.96"
+               stroke="#fff"
+               stroke-width=".06"
+               stroke-linecap="round"
+               stroke-miterlimit="10"
+               id="circle51344"
+               r="2.8840001"
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none" />
+            <circle
+               transform="scale(1,-1)"
+               r="2.8840001"
+               cy="-140.61"
+               cx="50.660999"
+               opacity="0.96"
+               stroke-width="0.06"
+               stroke-linecap="round"
+               stroke-miterlimit="10"
+               id="circle51346"
+               style="fill:#000000" />
+            <path
+               d="m 69.41,134.649 -6.18,21.14"
+               fill-rule="evenodd"
+               stroke-width="2"
+               id="path51348"
+               style="fill:#000000" />
+            <circle
+               cx="63.096001"
+               cy="-155.69099"
+               r="2.8840001"
+               transform="scale(1,-1)"
+               opacity="0.96"
+               stroke-width="0.06"
+               stroke-linecap="round"
+               stroke-miterlimit="10"
+               id="circle51350"
+               style="fill:#000000" />
+            <path
+               d="m 50.492,140.734 12.737,15.055 m -12.737,-15.055 18.917,-6.085"
+               fill-rule="evenodd"
+               stroke-width="2"
+               id="path51352"
+               style="fill:#000000" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:31.4146px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.90619"
+           x="280.83054"
+           y="4360.5439"
+           id="text3537"
+           inkscape:export-filename="C:\Users\Admin\OneDrive\Projects\unvotingwebsite\img\logo.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan3535"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:31.4146px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';stroke-width:0.90619"
+             x="280.83054"
+             y="4360.5439">Data Initiative</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     id="text3357"
+     style="line-height:1.25;font-family:'Open Sans';font-size:24px;-inkscape-font-specification:'Open Sans';white-space:pre;shape-inside:url(#rect3359)" />
+</svg>
